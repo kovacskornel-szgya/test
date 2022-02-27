@@ -1,4 +1,4 @@
 # test
-első bejegyzés
-második bejegyzés
-harmadik bejegyzés
+- első bejegyzés
+- második bejegyzés
+- harmadik bejegyzés
