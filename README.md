@@ -5,4 +5,3 @@ itt kezdődik
 - harmadik +- bejegyzés
 - negyedik bejegyzés
 - ötödik bejegyzés
-- hatodik bejegyzés
